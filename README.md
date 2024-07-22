@@ -28,11 +28,6 @@ I usually prefer...
 
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=vue "Activities")
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-	<img alt="Statistics" src="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg">
-</picture>
-
 <br>
 
 Usually work with
