@@ -16,9 +16,22 @@ I usually prefer...
 
 <br>
 
-![Statistics](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg "Statistics")
-![Languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg "Languages")
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+	<img alt="Statistics" src="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg">
+</picture>
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+	<img alt="Languages" src="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg">
+</picture>
+
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=vue "Activities")
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+	<img alt="Statistics" src="https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg">
+</picture>
 
 <br>
 
